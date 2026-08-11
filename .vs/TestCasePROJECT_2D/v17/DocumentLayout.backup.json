@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|c:\\users\\yunus\\onedrive\\desktop\\unity_projeler\\testcaseproject_2d\\assets\\testcaseproject_2d\\scripts\\collectibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|solutionrelative:assets\\testcaseproject_2d\\scripts\\collectibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\assets\\testcaseproject_2d\\scripts\\destructibleblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|solutionrelative:assets\\testcaseproject_2d\\scripts\\destructibleblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|c:\\users\\yunus\\onedrive\\desktop\\unity_projeler\\testcaseproject_2d\\assets\\testcaseproject_2d\\scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|solutionrelative:assets\\testcaseproject_2d\\scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\assets\\testcaseproject_2d\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|solutionrelative:assets\\testcaseproject_2d\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\assets\\testcaseproject_2d\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8579EB-BB88-CCD9-6174-10685C53012C}|Assembly-CSharp.csproj|solutionrelative:assets\\testcaseproject_2d\\scripts\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectibleItem.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\CollectibleItem.cs",
+              "RelativeDocumentMoniker": "Assets\\TestCaseProject_2D\\Scripts\\CollectibleItem.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\CollectibleItem.cs",
+              "RelativeToolTip": "Assets\\TestCaseProject_2D\\Scripts\\CollectibleItem.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T12:08:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\TestCaseProject_2D\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\TestCaseProject_2D\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T11:27:47.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\TestCaseProject_2D\\Scripts\\CameraShake.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\TestCaseProject_2D\\Scripts\\CameraShake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T10:45:44.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestructibleBlock.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\DestructibleBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\TestCaseProject_2D\\Scripts\\DestructibleBlock.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\DestructibleBlock.cs",
+              "RelativeToolTip": "Assets\\TestCaseProject_2D\\Scripts\\DestructibleBlock.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T19:35:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\GameplayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TestCaseProject_2D\\Scripts\\GameplayManager.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\Unity_Projeler\\TestCasePROJECT_2D\\Assets\\TestCaseProject_2D\\Scripts\\GameplayManager.cs",
+              "RelativeToolTip": "Assets\\TestCaseProject_2D\\Scripts\\GameplayManager.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAcwNIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T14:35:24.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
